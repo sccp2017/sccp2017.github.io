@@ -42,6 +42,15 @@ a {
   color: white;
 }
 
+.footer div {
+  font-size: 9pt;
+  color: white;
+}
+
+.footer a {
+  color: deepskyblue;
+}
+
 .main {
 /*  margin: 5%;*/
 }
